@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Creative Projects in the field of ML-DL**
 
-- 📝 I regularly write articles on Football & AI & AI [https://linktr.ee/AdityaDesai](https://linktr.ee/AdityaDesai)
+- 📝 I regularly write articles on Football & AI [https://linktr.ee/AdityaDesai](https://linktr.ee/AdityaDesai)
 
 - 📫 How to reach me **aditya.desai006@gmail.com**
 
